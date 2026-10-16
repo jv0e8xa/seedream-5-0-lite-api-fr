@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-ccc822) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-5-0-lite-prompts-fr](https://github.com/jv0e8xa/seedream-5-0-lite-prompts-fr)
+- **Same model, other languages** — 9 more language builds: 中文 [seedream-5-0-lite-api-cn](https://github.com/kchb7hrowii/seedream-5-0-lite-api-cn) · Deutsch [seedream-5-0-lite-api-de](https://github.com/op7yug/seedream-5-0-lite-api-de) · Español `seedream-5-0-lite-api-es` · Relay/gateway `seedream-5-0-lite-api-gateway` · Bahasa [seedream-5-0-lite-api-id](https://github.com/em-1szvltg3/seedream-5-0-lite-api-id) · 日本語 [seedream-5-0-lite-api-ja](https://github.com/wonzgeo6apai/seedream-5-0-lite-api-ja) · 한국어 `seedream-5-0-lite-api-ko` · Português [seedream-5-0-lite-api-pt](https://github.com/nt4kne51whi8v/seedream-5-0-lite-api-pt) · Русский [seedream-5-0-lite-api-ru](https://github.com/rxwpgd2t3zs2k/seedream-5-0-lite-api-ru)
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
+- **Topic hubs** — every build of this model, all languages: [seedream-5-0-lite](https://github.com/topics/seedream-5-0-lite) · [seedream-5-0-lite-api](https://github.com/topics/seedream-5-0-lite-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
